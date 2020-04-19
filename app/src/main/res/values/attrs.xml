@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<declare-styleable name="MyView1">
+
+        <attr name="width" format="float|reference"></attr>
+        <attr name="height" format="float|reference"></attr>
+        <attr name="circleColor" format="color|reference"></attr>
+        <attr name="huanColor" format="color|reference"></attr>
+
+    </declare-styleable>-->
+
+    <declare-styleable name="MyView">
+        <attr name="width" format="float|reference"></attr>
+        <attr name="height" format="float|reference"></attr>
+        <attr name="circleColor" format="color|reference"></attr>
+        <attr name="huanColor" format="color|reference"></attr>
+
+    </declare-styleable>
+</resources>
